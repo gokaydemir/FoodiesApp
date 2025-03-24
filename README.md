@@ -1,6 +1,6 @@
 
 ## Usage
-Kullanıcılar yemek tariflerini paylaşabilir, tariflerin açıklamalarını görebilir ve görsellerini inceleyebilirler. Yeni bir yemek tarifi eklemek için "Share your favorite meal" bölümüne gidin.
+Users can share their meal recipes, view the descriptions of recipes, and explore images. To add a new meal recipe, go to the 'Share your favorite meal' section.
 
 ## Technologies Used
 
